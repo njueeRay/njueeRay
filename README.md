@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=LLM+Engineer+%7C+AI-Native+Developer;Building+AI-powered+Open+Source+Tools;Python+%7C+C%2B%2B+%7C+TypeScript+%7C+JavaScript;Future+is+coming%2C+move+early.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=LLM+Engineer+%7C+AI-Native+Developer;Building+AI-powered+Open+Source+Tools;Python+%7C+C%2B%2B+%7C+TypeScript+%7C+JavaScript;Future+is+coming%2C+move+early.)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -22,6 +22,13 @@
 
 ---
 
+## ⏱️ This Week's Coding
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -36,14 +43,30 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=njueeRay&theme=merko&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njueeRay&theme=merko&hide_border=true&layout=compact&langs_count=6" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=njueeRay&theme=github_dark_dimmed&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njueeRay&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com/?user=njueeRay&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=njueeRay&theme=github-dark-blue&hide_border=true)](https://streak-stats.demolab.com)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=njueeRay&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/njueeRay/njueeRay/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -53,8 +76,8 @@
 
 <div align="center">
 
-[![OpenProfile](https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=merko&hide_border=true)](https://github.com/njueeRay/OpenProfile)
-[![MediaCrawler](https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=MediaCrawler&theme=merko&hide_border=true)](https://github.com/njueeRay/MediaCrawler)
+[![OpenProfile](https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=github_dark_dimmed&hide_border=true)](https://github.com/njueeRay/OpenProfile)
+[![wechat_article_exporter](https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=wechat_article_exporter&theme=github_dark_dimmed&hide_border=true)](https://github.com/njueeRay/wechat_article_exporter)
 
 </div>
 
