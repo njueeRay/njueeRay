@@ -239,6 +239,24 @@ C++                      1 repo              ██░░░░░░░░░�
 
 </div>
 
+<!-- ===== 渐变分隔线 ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a2744,100:0d1117&height=4&section=header" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=soft&color=0:dbeafe,50:93c5fd,100:dbeafe&height=4&section=header" />
+</picture>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POSTS:START -->
+- [Building an AI-Native GitHub Profile with OpenProfile](https://njueeray.github.io/posts/openprofile-intro/) — 2026-02-20
+- [LangChain vs LlamaIndex: A Practical Comparison](https://njueeray.github.io/posts/langchain-vs-llamaindex/) — 2026-02-10
+- [Deploying LLM Applications with Docker](https://njueeray.github.io/posts/llm-docker-deploy/) — 2026-01-28
+- [Human–AI Collaboration in Open Source Projects](https://njueeray.github.io/posts/human-ai-collab/) — 2026-01-15
+- [Getting Started with HuggingFace Transformers](https://njueeray.github.io/posts/hf-transformers-intro/) — 2026-01-02
+<!-- BLOG-POSTS:END -->
+
+> ✨ Auto-synced daily from [njueeray.github.io](https://njueeray.github.io) via RSS · [Subscribe](https://njueeray.github.io/rss.xml)
+
 ## 🤝 Connect with Me
 
 <div align="center">
