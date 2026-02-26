@@ -1,55 +1,119 @@
-# Worktree 任务上下文：Phase P — RSS → Profile README
+# Worktree 任务上下文：Phase K — Team Knowledge Graph
 
-> **Branch:** `feature/rss-to-readme` → 合并目标：`njueeRay-profile/main`
+> **Branch:** `feature/knowledge-graph` → 合并目标：`njueeRay-profile/main`
 > **仓库：** `njueeRay-profile`（GitHub 主页 README）
 > **创建日期：** 2026-02-27
-> **优先级：** P0（当前 Sprint 第一优先）
-> **来源：** 2026-02-27 全体战略会议决议 #P
+> **优先级：** P2（Phase P 已完成，本任务现在可执行）
+> **来源：** 2026-02-27 全体战略会议决议 #K
 
 ---
 
 ## ⚠️ 并行工作说明
 
-当前并行运行的 worktree：
-
-| Worktree 目录 | 仓库 | 分支 | 任务 |
+| Worktree 目录 | 仓库 | 分支 | 状态 |
 |-------------|------|------|------|
-| `njueeRay-profile/`（主） | njueeRay-profile | main | 主线 |
-| **`njueeRay-rss/`（本窗口）** | njueeRay-profile | feature/rss-to-readme | **Phase P（当前）** |
-| `njueeray-blog-authors/` | njueeray.github.io | feature/agent-blog-authors | Phase A（并行中） |
+| `njueeRay-profile/`（主） | njueeRay-profile | main | Phase P ✅ 已合并 |
+| **`njueeray-kg/`（本窗口）** | njueeRay-profile | feature/knowledge-graph | **Phase K（当前）** |
 
-**与 Phase A 无冲突**（不同仓库）。
-**Phase K 需等本分支合并后才能开始**（会修改同一 README.md）。
+**本分支起点包含 Phase P 的所有变更**（RSS 区块已在 README.md 中）。
+**Phase A（njueeray.github.io）** 已独立完成，与本任务无冲突。
 
 ---
 
 ## 任务目标
 
-将 `njueeray.github.io` 博客的最新文章自动同步展示到 GitHub Profile README 中。
-
-### 具体工作项
-
-- [ ] **GitHub Action**：定期拉取博客 RSS（`/rss.xml`），解析最新 N 篇文章标题 + 链接
-- [ ] **README.md 占位区块**：在合适位置插入 `<!-- BLOG-POSTS:START -->...<!-- BLOG-POSTS:END -->` 标记
-- [ ] **Action 自动写回**：解析结果写入占位区块，提交到主线
-- [ ] **触发频率**：每日 UTC 08:00 + 手动触发（`workflow_dispatch`）
-- [ ] **降级方案**：RSS 拉取失败时保留上次内容，不破坏 README 布局
-
-### 技术选型（推荐，可自主决定）
-
-- Action：`gautamkrishnar/blog-post-workflow`（成熟方案，Stars 众多）
-- 备选：自写 Python/JS 脚本 + `actions/checkout` + commit
-- 显示条数：最新 5 篇
-
-### 关键参考
-
-| 文件 | 用途 |
-|------|------|
-| `README.md` | 主要修改目标，找合适位置插入博客区块 |
-| `njueeray.github.io` 的 `/rss.xml` | 数据源（确认 URL 格式） |
-| `.github/workflows/` | 已有 Action 参考（3d-contrib.yml 等） |
+在 GitHub Profile README 中嵌入**团队知识图谱 SVG**，让访客能直观看到 AI-native 团队的认知结构。
 
 ---
+
+## 知识图谱设计规范
+
+### 节点分类（3 层）
+
+```
+Layer 1 — 核心人物（大圆，金色 #f0e68c）
+  njueeRay（中心）
+
+Layer 2 — Agent 团队（中圆，蓝色 #1f6feb）
+  Brain · PM · Dev · Researcher · Code-Reviewer · Brand
+
+Layer 3 — 核心概念（圆角矩形，灰色 #30363d 边框）
+  AI-native · Playbook · Worktree · Build-in-Public
+  Knowledge-Graph · Blog · Profile-README · L2-Patterns
+```
+
+### 视觉规范
+
+- **背景**：`#0d1117`（GitHub Dark）
+- **Agent 节点**：蓝色系 `#58a6ff`
+- **概念节点**：灰色 `#8b949e`
+- **整体尺寸**：900×500 px
+
+### 插入位置（README.md 现有结构）
+
+```
+...
+[3D 贡献图 <details>]   ← 现有
+[知识图谱 <details>]    ← 本次新增
+[Connect 区]           ← 现有
+```
+
+---
+
+## 具体工作项
+
+- [ ] 创建 `assets/team-knowledge-graph.svg`（手写 SVG，暗色背景）
+- [ ] 在 README.md 的 3D 贡献图折叠区**之后**插入展示区块：
+
+```html
+<!-- ===== TEAM KNOWLEDGE GRAPH ===== -->
+<details>
+<summary>🧠 Team Knowledge Graph — AI-native 团队认知图谱</summary>
+<br/>
+<div align="center">
+  <img src="assets/team-knowledge-graph.svg" alt="Team Knowledge Graph" width="900"/>
+</div>
+</details>
+```
+
+---
+
+## DoD（完成标准）
+
+- [ ] `assets/team-knowledge-graph.svg` 已创建（包含全部节点和边）
+- [ ] README.md `<details>` 区块插入完成，位于 3D 图之后
+- [ ] SVG 在 GitHub dark mode 下渲染正常（背景 #0d1117）
+- [ ] SVG 文件大小 < 100KB
+- [ ] 节点标签清晰可读
+
+---
+
+## 提交规范
+
+```
+feat(profile): add Team Knowledge Graph SVG (Phase K)
+
+Co-authored-by: GitHub Copilot <copilot@github.com>
+```
+
+---
+
+## 完成后：向主窗口（OpenProfile）汇报
+
+```
+feature/knowledge-graph worktree 任务已完成。
+变更摘要：[描述改动]
+请在 njueeRay-profile 仓库执行合并流程。
+```
+
+主窗口执行：
+```bash
+git -C "..\njueeRay-profile" merge feature/knowledge-graph
+git -C "..\njueeRay-profile" push origin main
+git -C "..\njueeRay-profile" worktree remove ..\njueeray-kg
+git -C "..\njueeRay-profile" branch -d feature/knowledge-graph
+git -C "..\njueeRay-profile" push origin --delete feature/knowledge-graph
+```
 
 ## 提交规范
 

@@ -218,6 +218,15 @@ C++                      1 repo              ██░░░░░░░░░�
 </div>
 </details>
 
+<!-- ===== TEAM KNOWLEDGE GRAPH ===== -->
+<details>
+<summary>🧠 Team Knowledge Graph — AI-native 团队认知图谱</summary>
+<br/>
+<div align="center">
+  <img src="assets/team-knowledge-graph.svg" alt="Team Knowledge Graph" width="900"/>
+</div>
+</details>
+
 <!-- ===== 渐变分隔线 ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a2744,100:0d1117&height=4&section=header" />
