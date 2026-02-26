@@ -197,6 +197,33 @@ C++                      1 repo              ██░░░░░░░░░�
   <img alt="" src="https://capsule-render.vercel.app/api?type=soft&color=0:dbeafe,50:93c5fd,100:dbeafe&height=4&section=header" />
 </picture>
 
+## 🏆 Achievements
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=njueeRay&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<details>
+<summary>🌏 3D Contribution Graph</summary>
+<br>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/njueeRay/njueeRay/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/njueeRay/njueeRay/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+</details>
+
+<!-- ===== 渐变分隔线 ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a2744,100:0d1117&height=4&section=header" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=soft&color=0:dbeafe,50:93c5fd,100:dbeafe&height=4&section=header" />
+</picture>
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -221,6 +248,8 @@ C++                      1 repo              ██░░░░░░░░░�
 [![GitHub](https://img.shields.io/badge/GitHub-@njueeRay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njueeRay)
 &nbsp;&nbsp;
 [![OpenProfile](https://img.shields.io/badge/🤖_How_This_Was_Built-OpenProfile-3fb950?style=for-the-badge)](https://github.com/njueeRay/OpenProfile)
+&nbsp;&nbsp;
+[![Blog RSS](https://img.shields.io/badge/📰_Blog-RSS_Feed-58a6ff?style=for-the-badge&logo=rss&logoColor=white)](https://njueeray.github.io/rss.xml)
 
 </div>
 

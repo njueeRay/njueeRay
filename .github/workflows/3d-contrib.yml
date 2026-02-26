@@ -1,0 +1,44 @@
+name: GitHub 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 18 * * *'   # 每天 UTC 18:00 (北京时间 02:00) 自动更新
+  workflow_dispatch:         # 允许手动触发
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/3d-contrib.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contribution-graph
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: njueeRay
+          MAX_REPOS: 20
+          SETTING_JSON: |
+            {
+              "backgroundColor": "#0d1117",
+              "type": "rainbow",
+              "topLangType": "pie-left"
+            }
+
+      - name: Commit & push generated SVGs
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          DIFF=$(git diff --cached --stat)
+          if [ -n "$DIFF" ]; then
+            git commit -m "ci: update 3D contribution graph [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
