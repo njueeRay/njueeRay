@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <defs>
+    <filter id="glow-gold" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0.8 0 0 0  0.8 0.7 0 0 0  0 0 0.2 0 0  0 0 0 0.8 0" result="gold-glow"/>
+      <feMerge><feMergeNode in="gold-glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-blue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0.4 0 0  0 0.3 0.8 0 0  0 0 1 0 0  0 0 0 0.6 0" result="blue-glow"/>
+      <feMerge><feMergeNode in="blue-glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="500" fill="#0d1117" rx="12"/>
+
+  <!-- Subtle grid dots -->
+  <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+    <circle cx="20" cy="20" r="0.8" fill="#21262d" opacity="0.8"/>
+  </pattern>
+  <rect width="900" height="500" fill="url(#dots)" rx="12"/>
+
+  <!-- Title -->
+  <text x="450" y="26" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif"
+        font-size="14" font-weight="bold" letter-spacing="0.5">
+    Team Knowledge Graph &#x2014; AI-native &#x56E2;&#x968F;&#x8BA4;&#x77E5;&#x56FE;&#x8C31;
+  </text>
+
+  <!-- ===== EDGES: Layer 1 → Layer 2 (center to agents) ===== -->
+  <g stroke="#1f6feb" stroke-width="1.8" opacity="0.55" fill="none">
+    <!-- njueeRay → Brain -->
+    <line x1="450" y1="208" x2="450" y2="141"/>
+    <!-- njueeRay → PM -->
+    <line x1="485" y1="221" x2="544" y2="202"/>
+    <!-- njueeRay → Dev -->
+    <line x1="485" y1="279" x2="544" y2="298"/>
+    <!-- njueeRay → Researcher -->
+    <line x1="450" y1="292" x2="450" y2="359"/>
+    <!-- njueeRay → Code-Reviewer -->
+    <line x1="415" y1="279" x2="356" y2="298"/>
+    <!-- njueeRay → Brand -->
+    <line x1="415" y1="221" x2="356" y2="202"/>
+  </g>
+
+  <!-- ===== EDGES: Layer 2 → Layer 3 (agents to concepts) ===== -->
+  <g stroke="#30363d" stroke-width="1.5" opacity="0.9" fill="none"
+     stroke-dasharray="4,3">
+    <!-- Brain → AI-native -->
+    <line x1="450" y1="89" x2="450" y2="88"/>
+    <!-- Brain → Knowledge-Graph -->
+    <line x1="472"  y1="96" x2="617" y2="120"/>
+    <!-- PM → Playbook -->
+    <line x1="589" y1="175" x2="685" y2="243"/>
+    <!-- Dev → Worktree -->
+    <line x1="575" y1="340" x2="609" y2="355"/>
+    <!-- Researcher → L2-Patterns -->
+    <line x1="450" y1="411" x2="450" y2="430"/>
+    <!-- Code-Reviewer → L2-Patterns -->
+    <line x1="342" y1="340" x2="400" y2="438"/>
+    <!-- Brand → Build-in-Public -->
+    <line x1="312" y1="200" x2="237" y2="243"/>
+    <!-- Brand → Blog -->
+    <line x1="316" y1="206" x2="283" y2="355"/>
+    <!-- Brand → Profile-README -->
+    <line x1="320" y1="168" x2="289" y2="138"/>
+  </g>
+
+  <!-- ===== LAYER 3: Concept nodes (rounded rectangles) ===== -->
+  <!-- AI-native: center (450, 74) -->
+  <rect x="405" y="60" width="90" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="450" y="78" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">AI-native</text>
+
+  <!-- Knowledge-Graph: center (673, 124) -->
+  <rect x="617" y="110" width="118" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="676" y="128" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">Knowledge-Graph</text>
+
+  <!-- Playbook: center (730, 250) -->
+  <rect x="685" y="236" width="90" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="730" y="254" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">Playbook</text>
+
+  <!-- Worktree: center (617, 369) -->
+  <rect x="572" y="355" width="90" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="617" y="373" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">Worktree</text>
+
+  <!-- L2-Patterns: center (450, 444) -->
+  <rect x="394" y="430" width="112" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="450" y="448" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">L2-Patterns</text>
+
+  <!-- Blog: center (283, 369) -->
+  <rect x="238" y="355" width="90" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="283" y="373" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">Blog</text>
+
+  <!-- Build-in-Public: center (163, 250) -->
+  <rect x="97" y="236" width="132" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="163" y="254" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">Build-in-Public</text>
+
+  <!-- Profile-README: center (225, 124) -->
+  <rect x="161" y="110" width="128" height="28" rx="6"
+        fill="#161b22" stroke="#58a6ff" stroke-width="1.2" opacity="0.85"/>
+  <text x="225" y="128" text-anchor="middle"
+        fill="#8b949e" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5">Profile-README</text>
+
+  <!-- ===== LAYER 2: Agent nodes (circles) ===== -->
+  <!-- Brain: (450, 115) -->
+  <circle cx="450" cy="115" r="26" fill="#0d1117" stroke="#58a6ff" stroke-width="2"
+          filter="url(#glow-blue)"/>
+  <text x="450" y="119" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold">Brain</text>
+
+  <!-- PM: (567, 183) -->
+  <circle cx="567" cy="183" r="26" fill="#0d1117" stroke="#58a6ff" stroke-width="2"
+          filter="url(#glow-blue)"/>
+  <text x="567" y="187" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold">PM</text>
+
+  <!-- Dev: (567, 317) -->
+  <circle cx="567" cy="317" r="26" fill="#0d1117" stroke="#58a6ff" stroke-width="2"
+          filter="url(#glow-blue)"/>
+  <text x="567" y="321" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold">Dev</text>
+
+  <!-- Researcher: (450, 385) r=26 but text needs 2 lines -->
+  <circle cx="450" cy="385" r="26" fill="#0d1117" stroke="#58a6ff" stroke-width="2"
+          filter="url(#glow-blue)"/>
+  <text x="450" y="382" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="bold">Research</text>
+  <text x="450" y="395" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="bold">-er</text>
+
+  <!-- Code-Reviewer: (333, 317) -->
+  <circle cx="333" cy="317" r="26" fill="#0d1117" stroke="#58a6ff" stroke-width="2"
+          filter="url(#glow-blue)"/>
+  <text x="333" y="313" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="bold">Code</text>
+  <text x="333" y="326" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="bold">Reviewer</text>
+
+  <!-- Brand: (333, 183) -->
+  <circle cx="333" cy="183" r="26" fill="#0d1117" stroke="#58a6ff" stroke-width="2"
+          filter="url(#glow-blue)"/>
+  <text x="333" y="187" text-anchor="middle"
+        fill="#58a6ff" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="bold">Brand</text>
+
+  <!-- ===== LAYER 1: Center node (njueeRay) ===== -->
+  <circle cx="450" cy="250" r="44" fill="#161b22" stroke="#f0e68c" stroke-width="2.5"
+          filter="url(#glow-gold)"/>
+  <text x="450" y="247" text-anchor="middle"
+        fill="#f0e68c" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="bold">njueeRay</text>
+  <text x="450" y="264" text-anchor="middle"
+        fill="#f0e68c" font-family="'Segoe UI',Arial,sans-serif" font-size="9" opacity="0.75" letter-spacing="1">CORE</text>
+
+  <!-- ===== LEGEND ===== -->
+  <g transform="translate(738, 400)">
+    <rect x="-4" y="-4" width="130" height="80" rx="6"
+          fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <!-- Core -->
+    <circle cx="12" cy="12" r="8" fill="#161b22" stroke="#f0e68c" stroke-width="2"/>
+    <text x="26" y="16" fill="#6e7681" font-family="'Segoe UI',Arial,sans-serif" font-size="10">Core Node</text>
+    <!-- Agent -->
+    <circle cx="12" cy="34" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+    <text x="26" y="38" fill="#6e7681" font-family="'Segoe UI',Arial,sans-serif" font-size="10">Agent</text>
+    <!-- Concept -->
+    <rect x="4" y="50" width="16" height="10" rx="2"
+          fill="#161b22" stroke="#58a6ff" stroke-width="1.2"/>
+    <text x="26" y="59" fill="#6e7681" font-family="'Segoe UI',Arial,sans-serif" font-size="10">Concept</text>
+  </g>
+
+  <!-- Layer label: L1 / L2 / L3 -->
+  <text x="16" y="465" fill="#30363d" font-family="'Segoe UI',Arial,sans-serif" font-size="10"
+        letter-spacing="0.5">Layer 1: Core &#x25C6; Layer 2: Agents &#x25C6; Layer 3: Concepts</text>
+</svg>
