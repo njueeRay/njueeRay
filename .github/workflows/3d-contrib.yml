@@ -30,15 +30,15 @@ jobs:
               "topLangType": "pie-left"
             }
 
-      - name: Commit & push generated SVGs
+      - name: Commit & push generated SVGs to output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
+          git add profile-3d-contrib/ --force
           DIFF=$(git diff --cached --stat)
           if [ -n "$DIFF" ]; then
             git commit -m "ci: update 3D contribution graph [skip ci]"
-            git push
+            git push origin HEAD:output --force
           else
             echo "No changes to commit."
           fi
