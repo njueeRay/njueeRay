@@ -1,0 +1,30 @@
+name: Blog Posts Sync
+
+on:
+  schedule:
+    - cron: '0 8 * * *'    # 每天 UTC 08:00（北京时间 16:00）自动同步
+  workflow_dispatch:         # 支持手动触发
+
+jobs:
+  update-blog-posts:
+    name: Sync Latest Blog Posts from RSS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://njueeray.github.io/rss.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POSTS"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore(profile): sync latest blog posts from RSS"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
+          # 降级方案：RSS 拉取失败时保留上次内容，不覆盖区块
+          disable_sort: "false"
+          date_format: "yyyy-MM-dd"
+          template: "[$title]($url) — $date"
