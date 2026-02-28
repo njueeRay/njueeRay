@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=njueeRay&fontSize=70&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=LLM%20Engineer%20%C2%B7%20AI-Native%20%C2%B7%20Building%20in%20Public&descSize=16&descColor=8b949e&descAlignY=55" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:bfdbfe&height=200&section=header&text=njueeRay&fontSize=70&fontColor=1d4ed8&animation=twinkling&fontAlignY=38&desc=LLM%20Engineer%20%C2%B7%20AI-Native%20%C2%B7%20Building%20in%20Public&descSize=16&descColor=3b82f6&descAlignY=55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=njueeRay&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=LLM%20Engineer%20%C2%B7%20AI-Native%20%C2%B7%20Building%20in%20Public&descSize=17&descColor=8b949e&descAlignY=63" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:bfdbfe&height=200&section=header&text=njueeRay&fontSize=60&fontColor=1d4ed8&animation=twinkling&fontAlignY=35&desc=LLM%20Engineer%20%C2%B7%20AI-Native%20%C2%B7%20Building%20in%20Public&descSize=17&descColor=3b82f6&descAlignY=63" />
 </picture>
 
 <!-- ===== TYPING SVG: 个人身份标签 ===== -->
@@ -47,8 +47,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,ts,js,react,docker,git,linux&theme=dark" />
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,docker,git,linux&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,ts,js,react,nodejs,nextjs,docker,git,linux,tailwind,pytorch,fastapi,postgres,redis,vscode,github,bash,astro,vite&theme=dark&perline=10" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,nodejs,nextjs,docker,git,linux,tailwind,pytorch,fastapi,postgres,redis,vscode,github,bash,astro,vite&theme=light&perline=10" />
 </picture>
 
 </div>
@@ -201,7 +201,10 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=njueeRay&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=njueeRay&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=njueeRay&theme=flat&no-frame=true&row=1&column=6" />
+</picture>
 
 </div>
 
@@ -212,7 +215,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/njueeRay/njueeRay/output/profile-3d-contrib/profile-night-rainbow.svg" />
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/njueeRay/njueeRay/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/njueeRay/njueeRay/output/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
 </div>
@@ -238,12 +241,12 @@ C++                      1 repo              ██░░░░░░░░░�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=github_dark_dimmed&hide_border=true" />
-  <img alt="OpenProfile" src="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" />
+  <img alt="OpenProfile" src="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=default&hide_border=true&cache_seconds=86400" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=wechat_article_exporter&theme=github_dark_dimmed&hide_border=true" />
-  <img alt="wechat_article_exporter" src="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=wechat_article_exporter&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=wechat_article_exporter&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" />
+  <img alt="wechat_article_exporter" src="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=wechat_article_exporter&theme=default&hide_border=true&cache_seconds=86400" />
 </picture>
 
 </div>
