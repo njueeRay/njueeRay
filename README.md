@@ -201,10 +201,11 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=njueeRay&theme=darkhub&no-frame=true&row=1&column=6" />
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=njueeRay&theme=flat&no-frame=true&row=1&column=6" />
-</picture>
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FnjueeRay&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&color=58a6ff&labelColor=161b22)](https://github.com/njueeRay?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/njueeRay?label=Followers&style=flat-square&logo=github&color=58a6ff&labelColor=161b22)](https://github.com/njueeRay?tab=followers)
+[![OpenProfile ⭐](https://img.shields.io/github/stars/njueeRay/OpenProfile?style=flat-square&logo=github&color=f0e68c&labelColor=161b22&label=OpenProfile%20%E2%AD%90)](https://github.com/njueeRay/OpenProfile)
+[![MediaCrawler ⭐](https://img.shields.io/github/stars/njueeRay/MediaCrawler?style=flat-square&logo=github&color=f0e68c&labelColor=161b22&label=MediaCrawler%20%E2%AD%90)](https://github.com/njueeRay/MediaCrawler)
+[![WechatExporter ⭐](https://img.shields.io/github/stars/njueeRay/wechat_article_exporter?style=flat-square&logo=github&color=f0e68c&labelColor=161b22&label=WechatExporter%20%E2%AD%90)](https://github.com/njueeRay/wechat_article_exporter)
 
 </div>
 
@@ -240,14 +241,10 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" />
-  <img alt="OpenProfile" src="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=OpenProfile&theme=default&hide_border=true&cache_seconds=86400" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=wechat_article_exporter&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" />
-  <img alt="wechat_article_exporter" src="https://github-readme-stats.vercel.app/api/pin/?username=njueeRay&repo=wechat_article_exporter&theme=default&hide_border=true&cache_seconds=86400" />
-</picture>
+| [🤖 OpenProfile](https://github.com/njueeRay/OpenProfile) | [🔍 wechat\_article\_exporter](https://github.com/njueeRay/wechat_article_exporter) |
+|:---:|:---:|
+| AI-Native Profile workflow — build yours with Copilot Agents | 微信公众号爬虫系统 |
+| ![Stars](https://img.shields.io/github/stars/njueeRay/OpenProfile?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/njueeRay/OpenProfile?style=flat-square&color=8b949e) ![Lang](https://img.shields.io/github/languages/top/njueeRay/OpenProfile?style=flat-square&color=58a6ff) | ![Stars](https://img.shields.io/github/stars/njueeRay/wechat_article_exporter?style=flat-square&color=3fb950) ![Forks](https://img.shields.io/github/forks/njueeRay/wechat_article_exporter?style=flat-square&color=8b949e) ![Lang](https://img.shields.io/github/languages/top/njueeRay/wechat_article_exporter?style=flat-square&color=3fb950) |
 
 </div>
 
@@ -259,7 +256,13 @@ C++                      1 repo              ██░░░░░░░░░�
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POSTS:START -->[我们决定成为一个品牌：2026-02-27 全员战略会议纪实](https://njueeray.github.io/blog/all-hands-strategic-2026-02-27/) — 2026-00-27[我是 Brain：一支 AI-native 团队的战略中枢是如何思考的](https://njueeray.github.io/blog/brain-first-post/) — 2026-00-27[我是 Brand：让一支 AI-native 团队被世界看见](https://njueeray.github.io/blog/brand-first-post/) — 2026-00-27[七个声音，一个方向：加入 njueeRay 团队，我看到了什么](https://njueeray.github.io/blog/brand-welcome-all-hands-2026-02-27/) — 2026-00-27[我是 Code Reviewer：我不修改代码，但我守护代码的灵魂](https://njueeray.github.io/blog/code-reviewer-first-post/) — 2026-00-27<!-- BLOG-POSTS:END -->
+<!-- BLOG-POSTS:START -->
+- [我们决定成为一个品牌：2026-02-27 全员战略会议纪实](https://njueeray.github.io/blog/all-hands-strategic-2026-02-27/) — 2026-02-27
+- [我是 Brain：一支 AI-native 团队的战略中枢是如何思考的](https://njueeray.github.io/blog/brain-first-post/) — 2026-02-27
+- [我是 Brand：让一支 AI-native 团队被世界看见](https://njueeray.github.io/blog/brand-first-post/) — 2026-02-27
+- [七个声音，一个方向：加入 njueeRay 团队，我看到了什么](https://njueeray.github.io/blog/brand-welcome-all-hands-2026-02-27/) — 2026-02-27
+- [我是 Code Reviewer：我不修改代码，但我守护代码的灵魂](https://njueeray.github.io/blog/code-reviewer-first-post/) — 2026-02-27
+<!-- BLOG-POSTS:END -->
 
 > ✨ Auto-synced daily from [njueeray.github.io](https://njueeray.github.io) via RSS · [Subscribe](https://njueeray.github.io/rss.xml)
 

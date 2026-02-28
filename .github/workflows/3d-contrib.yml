@@ -30,15 +30,25 @@ jobs:
               "topLangType": "pie-left"
             }
 
+      - name: Save generated SVGs to temp
+        run: |
+          cp -r profile-3d-contrib/ /tmp/3d-contrib-backup/
+
       - name: Commit & push generated SVGs to output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # Switch to output branch (preserves snake SVGs and other files)
+          git fetch origin output
+          git checkout output
+          # Restore generated 3D contrib files
+          mkdir -p profile-3d-contrib
+          cp -r /tmp/3d-contrib-backup/. profile-3d-contrib/
           git add profile-3d-contrib/ --force
           DIFF=$(git diff --cached --stat)
           if [ -n "$DIFF" ]; then
             git commit -m "ci: update 3D contribution graph [skip ci]"
-            git push origin HEAD:output --force
+            git push origin output
           else
             echo "No changes to commit."
           fi

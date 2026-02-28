@@ -27,4 +27,4 @@ jobs:
           # 降级方案：RSS 拉取失败时保留上次内容，不覆盖区块
           disable_sort: "false"
           date_format: "yyyy-MM-dd"
-          template: "[$title]($url) — $date"
+          template: "- [$title]($url) — $date\n"
