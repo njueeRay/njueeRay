@@ -10,6 +10,9 @@ on:
     paths:
       - '.github/workflows/3d-contrib.yml'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,17 +21,13 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.9.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: njueeRay
           MAX_REPOS: 20
-          SETTING_JSON: |
-            {
-              "backgroundColor": "#0d1117",
-              "type": "rainbow",
-              "topLangType": "pie-left"
-            }
+          # No SETTING_JSON: generates all preset variants including
+          # profile-night-rainbow.svg and profile-green-animate.svg
 
       - name: Save generated SVGs to temp
         run: |
