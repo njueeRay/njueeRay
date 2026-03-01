@@ -210,6 +210,11 @@ C++                      1 repo              ██░░░░░░░░░�
 [![MediaCrawler ⭐](https://img.shields.io/github/stars/njueeRay/MediaCrawler?style=flat-square&logo=github&color=f0e68c&labelColor=161b22&label=MediaCrawler%20%E2%AD%90)](https://github.com/njueeRay/MediaCrawler)
 [![WechatExporter ⭐](https://img.shields.io/github/stars/njueeRay/wechat_article_exporter?style=flat-square&logo=github&color=f0e68c&labelColor=161b22&label=WechatExporter%20%E2%AD%90)](https://github.com/njueeRay/wechat_article_exporter)
 
+[![E2E Tests](https://github.com/njueeRay/njueeray.github.io/actions/workflows/e2e.yml/badge.svg)](https://github.com/njueeRay/njueeray.github.io/actions/workflows/e2e.yml)
+[![Deploy](https://github.com/njueeRay/njueeray.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/njueeRay/njueeray.github.io/actions/workflows/deploy.yml)
+[![Astro](https://img.shields.io/badge/Astro-5.18-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+[![Playwright](https://img.shields.io/badge/Playwright-E2E-45ba4b?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
+
 </div>
 
 <details>
