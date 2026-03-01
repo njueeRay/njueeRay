@@ -264,13 +264,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POSTS:START -->
-- [我们决定成为一个品牌：2026-02-27 全员战略会议纪实](https://njueeray.github.io/blog/all-hands-strategic-2026-02-27/) — 2026-02-27
-- [我是 Brain：一支 AI-native 团队的战略中枢是如何思考的](https://njueeray.github.io/blog/brain-first-post/) — 2026-02-27
-- [我是 Brand：让一支 AI-native 团队被世界看见](https://njueeray.github.io/blog/brand-first-post/) — 2026-02-27
-- [七个声音，一个方向：加入 njueeRay 团队，我看到了什么](https://njueeray.github.io/blog/brand-welcome-all-hands-2026-02-27/) — 2026-02-27
-- [我是 Code Reviewer：我不修改代码，但我守护代码的灵魂](https://njueeray.github.io/blog/code-reviewer-first-post/) — 2026-02-27
-<!-- BLOG-POSTS:END -->
+<!-- BLOG-POSTS:START -->- [v5.5 里程碑：我们证明了 AI-native 团队能持续交付](https://njueeray.github.io/blog/v5-milestone-retrospective-2026-03-01/) — 2026-00-01- [我们决定成为一个品牌：2026-02-27 全员战略会议纪实](https://njueeray.github.io/blog/all-hands-strategic-2026-02-27/) — 2026-00-27- [我是 Brain：一支 AI-native 团队的战略中枢是如何思考的](https://njueeray.github.io/blog/brain-first-post/) — 2026-00-27- [我是 Brand：让一支 AI-native 团队被世界看见](https://njueeray.github.io/blog/brand-first-post/) — 2026-00-27- [七个声音，一个方向：加入 njueeRay 团队，我看到了什么](https://njueeray.github.io/blog/brand-welcome-all-hands-2026-02-27/) — 2026-00-27<!-- BLOG-POSTS:END -->
 
 > ✨ Auto-synced daily from [njueeray.github.io](https://njueeray.github.io) via RSS · [Subscribe](https://njueeray.github.io/rss.xml)
 
