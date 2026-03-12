@@ -1,5 +1,13 @@
 name: Blog Posts Sync
 
+# ── Blog Posts 精选标准（手动覆盖时参考）────────────────────────────────────
+# 自动同步：取 RSS 最新 5 篇（按 pubDate 倒序），无需手动干预。
+# 手动覆盖（RSS Action 故障时）：从 njueeray.github.io/blog 手动选 5 篇，优先级：
+#   1. 最近一个月的文章（按日期倒序）
+#   2. 优先保留：公告/发布 > 技术深度 > 研究/会议实录
+#   3. 避免：多篇同一会议的实录重复占位
+# ─────────────────────────────────────────────────────────────────────────────
+
 on:
   schedule:
     - cron: '0 8 * * *'    # 每天 UTC 08:00（北京时间 16:00）自动同步
@@ -26,5 +34,5 @@ jobs:
           committer_email: "github-actions[bot]@users.noreply.github.com"
           # 降级方案：RSS 拉取失败时保留上次内容，不覆盖区块
           disable_sort: "false"
-          date_format: "yyyy-MM-dd"
+          date_format: "YYYY-MM-DD"
           template: "- [$title]($url) — $date\n"
