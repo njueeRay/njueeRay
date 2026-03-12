@@ -23,7 +23,7 @@
   "focus"        : "Exploring the best AI-Native development practices",
   "llm_stack"    : ["LangChain", "LlamaIndex", "OpenAI API", "HuggingFace"],
   "languages"    : ["Python", "C++", "TypeScript", "JavaScript"],
-  "current_proj" : ["OpenProfile", "wechat_article_exporter"],
+  "current_proj" : ["OpenProfile", "njueeray.github.io", "wechat_article_exporter"],
   "open_to"      : "AI tooling · open source collaboration · LLM applications",
   "motto"        : "Future is coming, move early.",
   "status"       : "Building in public 🔨",
@@ -35,6 +35,28 @@
 > Currently exploring AI-Native development — where agents aren't just coding assistants,
 > but autonomous team members that plan, implement, and review together with humans.
 > Every project I ship is a live experiment in human–AI collaboration.
+
+<!-- ===== AI 协作团队 ===== -->
+## 🤖 My AI Team
+
+<div align="center">
+
+<a href="https://njueeray.github.io/agents">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/agent-pixel-badge-dark.svg" />
+  <img alt="AI Agent Team: Brain · PM · Dev · Researcher · Code Reviewer · Profile Designer · Brand" src="https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/agent-pixel-badge-light.svg" width="396" />
+</picture>
+</a>
+
+7 specialized AI agents — planning, implementing, reviewing and shipping together with me.
+
+[![Meet the Team](https://img.shields.io/badge/🧠_Meet_the_Team-/agents-3B5BDB?style=for-the-badge)](https://njueeray.github.io/agents)
+&nbsp;&nbsp;
+[![Live Office](https://img.shields.io/badge/🖥️_Live_Office-/agents/office-7048E8?style=for-the-badge)](https://njueeray.github.io/agents/office)
+&nbsp;&nbsp;
+[![Knowledge Graph](https://img.shields.io/badge/🕸️_Knowledge_Graph-/agents/graph-2F9E44?style=for-the-badge)](https://njueeray.github.io/agents/graph)
+
+</div>
 
 <!-- ===== 渐变分隔线 ===== -->
 <picture>
@@ -249,10 +271,34 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 <div align="center">
 
-| [🤖 OpenProfile](https://github.com/njueeRay/OpenProfile) | [🔍 wechat\_article\_exporter](https://github.com/njueeRay/wechat_article_exporter) |
-|:---:|:---:|
-| AI-Native Profile workflow — build yours with Copilot Agents | 微信公众号爬虫系统 |
-| ![Stars](https://img.shields.io/github/stars/njueeRay/OpenProfile?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/njueeRay/OpenProfile?style=flat-square&color=8b949e) ![Lang](https://img.shields.io/github/languages/top/njueeRay/OpenProfile?style=flat-square&color=58a6ff) | ![Stars](https://img.shields.io/github/stars/njueeRay/wechat_article_exporter?style=flat-square&color=3fb950) ![Forks](https://img.shields.io/github/forks/njueeRay/wechat_article_exporter?style=flat-square&color=8b949e) ![Lang](https://img.shields.io/github/languages/top/njueeRay/wechat_article_exporter?style=flat-square&color=3fb950) |
+| [🌐 njueeray.github.io](https://njueeray.github.io) | [🤖 OpenProfile](https://github.com/njueeRay/OpenProfile) | [🔍 wechat\_article\_exporter](https://github.com/njueeRay/wechat_article_exporter) |
+|:---:|:---:|:---:|
+| AI-native portfolio — Agent personas, knowledge graph & workflow guide | AI-Native Profile workflow — build yours with Copilot Agents | 微信公众号爬虫系统 |
+| [![Live](https://img.shields.io/badge/Live-Visit-58a6ff?style=flat-square)](https://njueeray.github.io) [![Agents](https://img.shields.io/badge/Agents-7_members-3B5BDB?style=flat-square)](https://njueeray.github.io/agents) | ![Stars](https://img.shields.io/github/stars/njueeRay/OpenProfile?style=flat-square&color=58a6ff) ![Forks](https://img.shields.io/github/forks/njueeRay/OpenProfile?style=flat-square&color=8b949e) ![Lang](https://img.shields.io/github/languages/top/njueeRay/OpenProfile?style=flat-square&color=58a6ff) | ![Stars](https://img.shields.io/github/stars/njueeRay/wechat_article_exporter?style=flat-square&color=3fb950) ![Forks](https://img.shields.io/github/forks/njueeRay/wechat_article_exporter?style=flat-square&color=8b949e) ![Lang](https://img.shields.io/github/languages/top/njueeRay/wechat_article_exporter?style=flat-square&color=3fb950) |
+
+</div>
+
+<!-- ===== 渐变分隔线 ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a2744,100:0d1117&height=4&section=header" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=soft&color=0:dbeafe,50:93c5fd,100:dbeafe&height=4&section=header" />
+</picture>
+
+<!-- ===== HOW I BUILD ===== -->
+## 🛠️ How I Build
+
+<div align="center">
+
+> AI-native isn't a tool setting — it's a working pattern.
+
+| 🔁 **Recall** | ⚡ **Execute** | 🚢 **Ship** |
+|:---:|:---:|:---:|
+| Read Sprint Board · sync context · confirm direction | Agent roles drive implementation · Ray reviews decisions | Release created · board cleared · loop restarts |
+| `~ 5 min` | `30 min – 2 hr` | `< 10 min` |
+
+**Every feature follows this loop.** 7 specialized AI agents collaborate — Brain coordinates strategy, PM tracks progress, Dev implements, Researcher informs decisions, Code Reviewer guards quality, Profile Designer owns visuals, Brand handles storytelling.
+
+[![📖 Full Workflow Guide](https://img.shields.io/badge/📖_Full_Workflow_Guide-how--we--work-e3b341?style=for-the-badge)](https://njueeray.github.io/how-we-work)
 
 </div>
 
@@ -264,7 +310,13 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POSTS:START -->- [用 2 分钟了解这个项目：当一个开发者让 AI 团队帮他构建自己的数字世界](https://njueeray.github.io/blog/2-min-guide-njueeray-github-io/) — 2026-00-11- [我们发现自己走对了：与 GEP 的不期而遇 · 团队演进研究会 2026-03-10](https://njueeray.github.io/blog/agent-team-evolution-gep-2026-03-10/) — 2026-00-10- [我们的 7 个 Skills 够用吗？全体会议实录 · 2026-03-10](https://njueeray.github.io/blog/skills-scaffold-all-hands-2026-03-10/) — 2026-00-10- [工具层三位一体：Skills × Hooks × MCP 是怎么搭起来的](https://njueeray.github.io/blog/tool-layer-architecture-skills-hooks-mcp/) — 2026-00-10- [我们停下来，问了自己一个很难的问题 · 团队成长反思会 2026-03-01](https://njueeray.github.io/blog/team-growth-retrospective-2026-03-01/) — 2026-00-01<!-- BLOG-POSTS:END -->
+<!-- BLOG-POSTS:START -->
+- [OpenProfile 正式开源：如何用 AI Agent 协作构建你的 GitHub Profile](https://njueeray.github.io/blog/open-source-announcement/) — 2026-03-11
+- [用 2 分钟了解这个项目：当一个开发者让 AI 团队帮他构建自己的数字世界](https://njueeray.github.io/blog/2-min-guide-njueeray-github-io/) — 2026-03-11
+- [工具层三位一体：Skills × Hooks × MCP 是怎么搭起来的](https://njueeray.github.io/blog/tool-layer-architecture-skills-hooks-mcp/) — 2026-03-10
+- [我们发现自己走对了：与 GEP 的不期而遇 · 团队演进研究会 2026-03-10](https://njueeray.github.io/blog/agent-team-evolution-gep-2026-03-10/) — 2026-03-10
+- [我们的 7 个 Skills 够用吗？全体会议实录 · 2026-03-10](https://njueeray.github.io/blog/skills-scaffold-all-hands-2026-03-10/) — 2026-03-10
+<!-- BLOG-POSTS:END -->
 
 > ✨ Auto-synced daily from [njueeray.github.io](https://njueeray.github.io) via RSS · [Subscribe](https://njueeray.github.io/rss.xml)
 
@@ -273,6 +325,8 @@ Astro                    1 repo              █░░░░░░░░░░�
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-njueeray.github.io-58a6ff?style=for-the-badge)](https://njueeray.github.io)
+&nbsp;&nbsp;
+[![AI Team](https://img.shields.io/badge/🧠_AI_Team-Meet_the_Agents-3B5BDB?style=for-the-badge)](https://njueeray.github.io/agents)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@njueeRay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njueeRay)
 &nbsp;&nbsp;
