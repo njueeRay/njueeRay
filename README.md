@@ -160,16 +160,19 @@ Sunday                   142 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               7 mins              ██████████████░░░░░░░░░░░   57.01 % 
+Other                    5 mins              ███████████░░░░░░░░░░░░░░   42.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ssh                      7 mins              ██████████████░░░░░░░░░░░   57.62 % 
+python_interface         2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Unknown Project          2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -189,7 +192,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 19:28:12 UTC
+ Last Updated on 27/04/2026 19:54:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
