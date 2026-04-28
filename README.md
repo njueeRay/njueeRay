@@ -117,13 +117,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.3 kB Used in GitHub's Storage 
+> 📦 176.4 kB Used in GitHub's Storage 
  > 
 > 🏆 306 Contributions in the Year 2026
  > 
@@ -160,19 +160,19 @@ Sunday                   142 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               7 mins              ██████████████░░░░░░░░░░░   57.01 % 
-Other                    5 mins              ███████████░░░░░░░░░░░░░░   42.99 % 
+SSH Config               7 mins              █████████████░░░░░░░░░░░░   52.92 % 
+Other                    6 mins              ████████████░░░░░░░░░░░░░   47.08 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ssh                      7 mins              ██████████████░░░░░░░░░░░   57.62 % 
-python_interface         2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Unknown Project          2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+ssh                      8 mins              ███████████████░░░░░░░░░░   60.66 % 
+python_interface         2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Unknown Project          2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -192,7 +192,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 19:54:20 UTC
+ Last Updated on 28/04/2026 20:01:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
