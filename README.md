@@ -123,7 +123,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 176.7 kB Used in GitHub's Storage 
+> 📦 181.3 kB Used in GitHub's Storage 
  > 
 > 🏆 314 Contributions in the Year 2026
  > 
@@ -179,14 +179,14 @@ User                     0 secs              ░░░░░░░░░░░�
 Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
 JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 PowerShell               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -196,7 +196,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 19:23:35 UTC
+ Last Updated on 11/06/2026 19:25:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
