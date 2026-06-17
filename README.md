@@ -123,7 +123,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 209.9 kB Used in GitHub's Storage 
+> 📦 209.0 kB Used in GitHub's Storage 
  > 
 > 🏆 314 Contributions in the Year 2026
  > 
@@ -197,7 +197,7 @@ PowerShell               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 19:45:59 UTC
+ Last Updated on 17/06/2026 19:19:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
