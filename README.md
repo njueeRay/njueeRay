@@ -117,13 +117,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 214.2 kB Used in GitHub's Storage 
+> 📦 214.4 kB Used in GitHub's Storage 
  > 
 > 🏆 314 Contributions in the Year 2026
  > 
@@ -160,16 +160,18 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 15 mins       ████████████████░░░░░░░░░   65.10 % 
+PowerShell               1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   34.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ssh                      3 hrs 26 mins       █████████████████████████   99.31 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -189,7 +191,7 @@ PowerShell               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 18:49:56 UTC
+ Last Updated on 05/07/2026 18:51:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
