@@ -117,7 +117,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -160,18 +160,20 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 22 mins       ████████████████░░░░░░░░░   63.42 % 
-PowerShell               3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.58 % 
+Markdown                 6 hrs 11 mins       ████████████████░░░░░░░░░   62.28 % 
+PowerShell               3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ssh                      8 hrs 25 mins       █████████████████████████   99.22 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+ssh                      9 hrs 48 mins       █████████████████████████   98.70 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+codex-doing              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -191,7 +193,7 @@ PowerShell               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 19:09:02 UTC
+ Last Updated on 07/07/2026 19:13:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
