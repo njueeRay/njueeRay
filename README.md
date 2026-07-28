@@ -117,10 +117,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -135,51 +131,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌆 Daytime                309 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌃 Evening                334 commits         █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌙 Night                  216 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Tuesday                  138 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Wednesday                181 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Thursday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Friday                   147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -197,7 +148,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 19:00:09 UTC
+ Last Updated on 28/07/2026 18:57:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
