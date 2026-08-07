@@ -117,15 +117,11 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 213.1 kB Used in GitHub's Storage 
+> 📦 213.2 kB Used in GitHub's Storage 
  > 
 > 🏆 317 Contributions in the Year 2026
  > 
@@ -197,7 +193,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:08:11 UTC
+ Last Updated on 07/08/2026 00:24:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
