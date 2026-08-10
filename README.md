@@ -183,11 +183,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -197,7 +197,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:11:41 UTC
+ Last Updated on 10/08/2026 19:30:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
