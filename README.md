@@ -200,8 +200,8 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 ```text
 Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
@@ -213,7 +213,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:03:36 UTC
+ Last Updated on 20/08/2026 19:11:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
