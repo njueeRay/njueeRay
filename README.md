@@ -125,7 +125,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 230.9 kB Used in GitHub's Storage 
+> 📦 231.0 kB Used in GitHub's Storage 
  > 
 > 🏆 317 Contributions in the Year 2026
  > 
@@ -162,22 +162,46 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       9 mins              ██████████░░░░░░░░░░░░░░░   40.53 % 
+Python                   7 mins              █████████░░░░░░░░░░░░░░░░   34.07 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             ████████████████░░░░░░░░░   65.93 % 
+Codex Vscode             7 mins              █████████░░░░░░░░░░░░░░░░   34.07 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+easyeda-agent            13 mins             ███████████████░░░░░░░░░░   60.33 % 
+TraceMemo                7 mins              █████████░░░░░░░░░░░░░░░░   34.07 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+codex-doing              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 22 mins (100.0%)
+
+✍️ 210 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 192,615 Input Tokens, 26,072 Output Tokens
+
+💵 $19.15 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Codex-Vscode             210 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -197,7 +221,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:34:17 UTC
+ Last Updated on 28/08/2026 02:17:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
