@@ -117,9 +117,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -162,46 +162,47 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       9 mins              ██████████░░░░░░░░░░░░░░░   40.53 % 
-Python                   7 mins              █████████░░░░░░░░░░░░░░░░   34.07 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+HTML                     46 mins             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Markdown                 45 mins             █████████░░░░░░░░░░░░░░░░   34.46 % 
+Go                       29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  14 mins             ████████████████░░░░░░░░░   65.93 % 
-Codex Vscode             7 mins              █████████░░░░░░░░░░░░░░░░   34.07 % 
+Codex Vscode             1 hr 45 mins        ████████████████████░░░░░   79.72 % 
+VS Code                  26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
 
 🐱‍💻 Projects: 
-easyeda-agent            13 mins             ███████████████░░░░░░░░░░   60.33 % 
-TraceMemo                7 mins              █████████░░░░░░░░░░░░░░░░   34.07 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-codex-doing              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+codex-doing              1 hr 12 mins        ██████████████░░░░░░░░░░░   55.05 % 
+easyeda-agent            33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+TraceMemo                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 12 mins (99.87%)
 
-✍️ 210 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,080 lines written by AI, 28 lines written by hand (97.47% AI-written)
 
-🔤 192,615 Input Tokens, 26,072 Output Tokens
+🔤 1,806,500 Input Tokens, 152,550 Output Tokens
 
-💵 $19.15 Estimated AI Cost This Week
+💵 $44.16 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
-Codex-Vscode             210 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      870 lines           ████████████████████░░░░░   80.56 % 
+Codex-Vscode             210 lines           █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.47% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 3.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -221,7 +222,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:17:21 UTC
+ Last Updated on 29/08/2026 01:50:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
