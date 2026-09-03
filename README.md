@@ -117,9 +117,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -139,20 +139,20 @@
 
 ```text
 🌞 Morning                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-🌆 Daytime                329 commits         ████████░░░░░░░░░░░░░░░░░   33.81 % 
-🌃 Evening                342 commits         █████████░░░░░░░░░░░░░░░░   35.15 % 
-🌙 Night                  225 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌆 Daytime                329 commits         ████████░░░░░░░░░░░░░░░░░   33.78 % 
+🌃 Evening                342 commits         █████████░░░░░░░░░░░░░░░░   35.11 % 
+🌙 Night                  226 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Tuesday                  144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                205 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Thursday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Monday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Tuesday                  144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Wednesday                205 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 ```
 
 
@@ -162,57 +162,56 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 24 mins      █████████████░░░░░░░░░░░░   53.65 % 
-PowerShell               8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
-HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Go                       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 12 hrs 21 mins      ██████████████░░░░░░░░░░░   54.33 % 
+PowerShell               8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.85 % 
+HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Go                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-Codex Vscode             21 hrs 33 mins      ███████████████████████░░   93.29 % 
-VS Code                  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Codex Vscode             21 hrs 26 mins      ████████████████████████░   94.26 % 
+VS Code                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🐱‍💻 Projects: 
-codex-doing              19 hrs 55 mins      ██████████████████████░░░   86.19 % 
-Unknown Project          2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-easyeda-agent            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-TraceMemo                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+codex-doing              19 hrs 55 mins      ██████████████████████░░░   87.59 % 
+Unknown Project          2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+easyeda-agent            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Windows                  23 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 6 mins (99.99%)
+⏱ AI Coding Time: 22 hrs 44 mins (99.99%)
 
-✍️ 9,591 lines written by AI, 28 lines written by hand (99.71% AI-written)
+✍️ 9,381 lines written by AI, 28 lines written by hand (99.7% AI-written)
 
-🔤 14,868,284 Input Tokens, 1,289,135 Output Tokens
+🔤 14,675,669 Input Tokens, 1,263,063 Output Tokens
 
-💵 $370.76 Estimated AI Cost This Week
+💵 $351.61 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 78 AI Prompts
+🧠 16 AI Sessions, 76 AI Prompts
 
-GPT                      8,312 lines         ██████████████████████░░░   86.28 % 
-Codex-Vscode             1,322 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+GPT                      8,312 lines         ██████████████████████░░░   88.20 % 
+Codex-Vscode             1,112 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Python** 
 
 ```text
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -222,7 +221,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:12:52 UTC
+ Last Updated on 03/09/2026 21:14:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
