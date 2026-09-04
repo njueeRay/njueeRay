@@ -121,7 +121,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -162,46 +162,45 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 21 mins      ██████████████░░░░░░░░░░░   54.33 % 
-PowerShell               8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.85 % 
-HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Go                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Markdown                 11 hrs 26 mins      ██████████████░░░░░░░░░░░   55.26 % 
+PowerShell               8 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.35 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Codex Vscode             21 hrs 26 mins      ████████████████████████░   94.26 % 
-VS Code                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Codex Vscode             19 hrs 36 mins      ████████████████████████░   94.67 % 
+VS Code                  1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🐱‍💻 Projects: 
-codex-doing              19 hrs 55 mins      ██████████████████████░░░   87.59 % 
-Unknown Project          2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-easyeda-agent            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+codex-doing              18 hrs 30 mins      ██████████████████████░░░   89.37 % 
+Unknown Project          2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 
 💻 Operating System: 
-Windows                  22 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 44 mins (99.99%)
+⏱ AI Coding Time: 20 hrs 43 mins (100.0%)
 
-✍️ 9,381 lines written by AI, 28 lines written by hand (99.7% AI-written)
+✍️ 8,511 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,675,669 Input Tokens, 1,263,063 Output Tokens
+🔤 12,948,959 Input Tokens, 1,124,000 Output Tokens
 
-💵 $351.61 Estimated AI Cost This Week
+💵 $323.39 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 76 AI Prompts
+🧠 12 AI Sessions, 66 AI Prompts
 
-GPT                      8,312 lines         ██████████████████████░░░   88.20 % 
-Codex-Vscode             1,112 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+GPT                      7,442 lines         ██████████████████████░░░   87.00 % 
+Codex-Vscode             1,112 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
-📝 Concise Prompter — average 227 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 206 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -221,7 +220,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:14:22 UTC
+ Last Updated on 04/09/2026 20:56:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
