@@ -162,43 +162,43 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 13 mins       ████████████░░░░░░░░░░░░░   48.92 % 
-PowerShell               5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.87 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown                 5 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.31 % 
+PowerShell               5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 47 mins      ███████████████████████░░   92.62 % 
-VS Code                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Codex Vscode             11 hrs 23 mins      ███████████████████████░░   92.38 % 
+VS Code                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🐱‍💻 Projects: 
-codex-doing              10 hrs 53 mins      █████████████████████░░░░   85.56 % 
-Unknown Project          1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+codex-doing              10 hrs 32 mins      █████████████████████░░░░   85.49 % 
+Unknown Project          1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 
 💻 Operating System: 
-Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 12 hrs 20 mins (100.0%)
 
-✍️ 5,251 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,866 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,836,413 Input Tokens, 864,491 Output Tokens
+🔤 10,455,563 Input Tokens, 830,384 Output Tokens
 
-💵 $263.46 Estimated AI Cost This Week
+💵 $257.45 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 55 AI Prompts
+🧠 9 AI Sessions, 51 AI Prompts
 
-GPT                      5,038 lines         ████████████████████████░   95.20 % 
-Codex-Vscode             254 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+GPT                      4,653 lines         ████████████████████████░   94.82 % 
+Codex-Vscode             254 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
+📝 Concise Prompter — average 216 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -220,7 +220,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:36:06 UTC
+ Last Updated on 06/09/2026 20:39:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
