@@ -125,7 +125,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 266.8 kB Used in GitHub's Storage 
+> 📦 267.1 kB Used in GitHub's Storage 
  > 
 > 🏆 320 Contributions in the Year 2026
  > 
@@ -133,26 +133,26 @@
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-🌆 Daytime                329 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
-🌃 Evening                342 commits         █████████░░░░░░░░░░░░░░░░   35.08 % 
-🌙 Night                  227 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+🌞 Morning                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+🌆 Daytime                331 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌃 Evening                342 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌙 Night                  227 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Tuesday                  144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Wednesday                205 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Thursday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Monday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Tuesday                  144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                205 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Thursday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 
 
@@ -162,55 +162,56 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.31 % 
-PowerShell               5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PowerShell               5 hrs 9 mins        ████████████████░░░░░░░░░   63.80 % 
+Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 23 mins      ███████████████████████░░   92.38 % 
-VS Code                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Codex Vscode             7 hrs 46 mins       ████████████████████████░   96.04 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🐱‍💻 Projects: 
-codex-doing              10 hrs 32 mins      █████████████████████░░░░   85.49 % 
-Unknown Project          1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+codex-doing              7 hrs 14 mins       ██████████████████████░░░   89.55 % 
+Unknown Project          49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+ssh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  12 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 5 mins (100.0%)
 
-✍️ 4,866 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,926 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,455,563 Input Tokens, 830,384 Output Tokens
+🔤 6,375,367 Input Tokens, 520,610 Output Tokens
 
-💵 $257.45 Estimated AI Cost This Week
+💵 $202.04 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 51 AI Prompts
+🧠 7 AI Sessions, 26 AI Prompts
 
-GPT                      4,653 lines         ████████████████████████░   94.82 % 
-Codex-Vscode             254 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+GPT                      2,692 lines         ███████████████████████░░   91.38 % 
+Codex-Vscode             254 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 216 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 147 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -220,7 +221,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:39:38 UTC
+ Last Updated on 07/09/2026 21:43:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
