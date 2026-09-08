@@ -119,7 +119,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -138,21 +138,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-🌆 Daytime                331 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
-🌃 Evening                342 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌙 Night                  227 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌞 Morning                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+🌆 Daytime                358 commits         █████████░░░░░░░░░░░░░░░░   35.52 % 
+🌃 Evening                345 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
+🌙 Night                  227 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Tuesday                  144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                205 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Thursday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Monday                   88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Tuesday                  172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Wednesday                205 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Thursday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 ```
 
 
@@ -162,45 +162,42 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PowerShell               5 hrs 9 mins        ████████████████░░░░░░░░░   63.80 % 
-Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+PowerShell               6 mins              ███████████████░░░░░░░░░░   60.76 % 
+Markdown                 3 mins              ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 46 mins       ████████████████████████░   96.04 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Codex Vscode             9 mins              ██████████████████████░░░   88.72 % 
+VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 
 🐱‍💻 Projects: 
-codex-doing              7 hrs 14 mins       ██████████████████████░░░   89.55 % 
-Unknown Project          49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-ssh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+codex-doing              7 mins              █████████████████░░░░░░░░   66.22 % 
+Unknown Project          2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+ssh                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 💻 Operating System: 
-Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 10 mins (100.0%)
 
-✍️ 2,926 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 395 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,375,367 Input Tokens, 520,610 Output Tokens
+🔤 910,753 Input Tokens, 33,809 Output Tokens
 
-💵 $202.04 Estimated AI Cost This Week
+💵 $7.65 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 26 AI Prompts
+🧠 5 AI Sessions, 2 AI Prompts
 
-GPT                      2,692 lines         ███████████████████████░░   91.38 % 
-Codex-Vscode             254 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+GPT                      395 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 76 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -221,7 +218,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:43:15 UTC
+ Last Updated on 08/09/2026 21:20:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
