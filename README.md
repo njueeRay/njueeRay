@@ -162,43 +162,38 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PowerShell               6 mins              ███████████████░░░░░░░░░░   60.76 % 
-Markdown                 3 mins              ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             9 mins              ██████████████████████░░░   88.72 % 
-VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codex-doing              7 mins              █████████████████░░░░░░░░   66.22 % 
-Unknown Project          2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-ssh                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+ssh                      1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 395 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 910,753 Input Tokens, 33,809 Output Tokens
+🔤 124,721 Input Tokens, 1,169 Output Tokens
 
-💵 $7.65 Estimated AI Cost This Week
+💵 $0.62 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
-GPT                      395 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 84 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -218,7 +213,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:20:07 UTC
+ Last Updated on 09/09/2026 21:05:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
