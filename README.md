@@ -125,7 +125,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 267.1 kB Used in GitHub's Storage 
+> 📦 267.2 kB Used in GitHub's Storage 
  > 
 > 🏆 320 Contributions in the Year 2026
  > 
@@ -162,38 +162,41 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Markdown                 41 mins             ███████████████░░░░░░░░░░   61.05 % 
+PowerShell               21 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-Codex Vscode             1 min               █████████████████████████   100.00 % 
+Codex Vscode             1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ssh                      1 min               █████████████████████████   100.00 % 
+ssh                      1 hr 5 mins         ████████████████████████░   97.77 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (100.0%)
+⏱ AI Coding Time: 1 hr 7 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 470 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 124,721 Input Tokens, 1,169 Output Tokens
+🔤 483,349 Input Tokens, 73,807 Output Tokens
 
-💵 $0.62 Estimated AI Cost This Week
+💵 $11.10 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      470 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 84 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -213,7 +216,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:05:33 UTC
+ Last Updated on 11/09/2026 21:09:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
