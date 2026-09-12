@@ -117,9 +117,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -162,39 +162,39 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 41 mins             ███████████████░░░░░░░░░░   61.05 % 
-PowerShell               21 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown                 41 mins             █████████████░░░░░░░░░░░░   50.89 % 
+PowerShell               35 mins             ███████████░░░░░░░░░░░░░░   43.63 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 7 mins         █████████████████████████   100.00 % 
+Codex Vscode             1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ssh                      1 hr 5 mins         ████████████████████████░   97.77 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+ssh                      1 hr 17 mins        ████████████████████████░   96.56 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (100.0%)
+⏱ AI Coding Time: 1 hr 20 mins (100.0%)
 
-✍️ 470 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 558 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 483,349 Input Tokens, 73,807 Output Tokens
+🔤 516,050 Input Tokens, 90,476 Output Tokens
 
-💵 $11.10 Estimated AI Cost This Week
+💵 $12.37 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 4 AI Prompts
 
-GPT                      470 lines           █████████████████████████   100.00 % 
+GPT                      558 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
+📝 Concise Prompter — average 68 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -216,7 +216,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:09:51 UTC
+ Last Updated on 12/09/2026 20:48:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
