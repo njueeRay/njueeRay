@@ -121,11 +121,11 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 267.3 kB Used in GitHub's Storage 
+> 📦 267.4 kB Used in GitHub's Storage 
  > 
 > 🏆 314 Contributions in the Year 2026
  > 
@@ -133,7 +133,7 @@
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -162,40 +162,40 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 54 mins        ██████████████████░░░░░░░   71.11 % 
-PowerShell               32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Markdown                 1 hr 9 mins         ███████████████░░░░░░░░░░   59.80 % 
+PowerShell               32 mins             ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 41 mins       █████████████████████████   100.00 % 
+Codex Vscode             1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codex-doing              1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.22 % 
-ssh                      1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.42 % 
-Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+codex-doing              1 hr 16 mins        ████████████████░░░░░░░░░   65.70 % 
+ssh                      31 mins             ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 1 hr 56 mins (100.0%)
 
-✍️ 813 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 470 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,637,422 Input Tokens, 213,940 Output Tokens
+🔤 1,384,225 Input Tokens, 166,633 Output Tokens
 
-💵 $29.40 Estimated AI Cost This Week
+💵 $23.49 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 16 AI Prompts
+🧠 9 AI Sessions, 15 AI Prompts
 
-GPT                      813 lines           █████████████████████████   100.00 % 
+GPT                      470 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
+📝 Concise Prompter — average 313 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -203,11 +203,11 @@ GPT                      813 lines           ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -217,7 +217,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:37:15 UTC
+ Last Updated on 18/09/2026 21:07:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
