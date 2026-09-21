@@ -125,7 +125,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 267.4 kB Used in GitHub's Storage 
+> 📦 267.5 kB Used in GitHub's Storage 
  > 
 > 🏆 315 Contributions in the Year 2026
  > 
@@ -138,21 +138,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-🌆 Daytime                372 commits         █████████░░░░░░░░░░░░░░░░   35.84 % 
-🌃 Evening                338 commits         ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌙 Night                  250 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+🌞 Morning                100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+🌆 Daytime                411 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌃 Evening                342 commits         ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌙 Night                  261 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Tuesday                  182 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Wednesday                211 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Saturday                 103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Monday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Tuesday                  188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Wednesday                214 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Saturday                 103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Sunday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 ```
 
 
@@ -162,40 +162,38 @@ Sunday                   158 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 mins             ██████████████░░░░░░░░░░░   55.15 % 
-Other                    11 mins             ███████████░░░░░░░░░░░░░░   44.85 % 
+Other                    11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             24 mins             █████████████████████████   100.00 % 
+Codex Vscode             6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codex-doing              24 mins             █████████████████████████   98.56 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+codex-doing              6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (100.0%)
+⏱ AI Coding Time: 6 mins (100.0%)
 
-✍️ 85 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 398,353 Input Tokens, 38,258 Output Tokens
+🔤 82,678 Input Tokens, 8,798 Output Tokens
 
-💵 $6.80 Estimated AI Cost This Week
+💵 $1.99 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
-GPT                      85 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 215 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -215,7 +213,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:00:05 UTC
+ Last Updated on 21/09/2026 22:08:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
