@@ -125,7 +125,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 276.7 kB Used in GitHub's Storage 
+> 📦 280.6 kB Used in GitHub's Storage 
  > 
 > 🏆 315 Contributions in the Year 2026
  > 
@@ -133,26 +133,26 @@
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-🌆 Daytime                413 commits         █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌃 Evening                342 commits         ████████░░░░░░░░░░░░░░░░░   30.65 % 
-🌙 Night                  261 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                432 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                349 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌙 Night                  271 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Tuesday                  190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Wednesday                214 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Sunday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Monday                   196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Tuesday                  196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Wednesday                214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Saturday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Sunday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 ```
 
 
@@ -180,14 +180,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -197,7 +197,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:46:50 UTC
+ Last Updated on 26/09/2026 21:24:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
