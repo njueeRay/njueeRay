@@ -138,21 +138,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-🌆 Daytime                465 commits         ██████████░░░░░░░░░░░░░░░   38.62 % 
-🌃 Evening                353 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-🌙 Night                  279 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+🌞 Morning                107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+🌆 Daytime                467 commits         ██████████░░░░░░░░░░░░░░░   38.72 % 
+🌃 Evening                353 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+🌙 Night                  279 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Tuesday                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Wednesday                225 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Saturday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Sunday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Monday                   217 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Tuesday                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Wednesday                227 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Saturday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Sunday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 
 
@@ -162,7 +162,7 @@ Sunday                   173 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -184,10 +184,10 @@ No AI Coding Activity Tracked This Week
 
 ```text
 Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -197,7 +197,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:32:11 UTC
+ Last Updated on 30/09/2026 22:30:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
