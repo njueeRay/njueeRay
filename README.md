@@ -135,24 +135,24 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-🌆 Daytime                544 commits         ██████████░░░░░░░░░░░░░░░   40.36 % 
-🌃 Evening                368 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌙 Night                  308 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+🌆 Daytime                544 commits         ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌃 Evening                369 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌙 Night                  308 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Tuesday                  224 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Wednesday                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Friday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Saturday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Sunday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Monday                   276 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Tuesday                  224 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Wednesday                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Friday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Saturday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Sunday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 ```
 
 
@@ -197,7 +197,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:47:00 UTC
+ Last Updated on 06/10/2026 00:15:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
