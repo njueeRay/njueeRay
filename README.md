@@ -138,21 +138,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-🌆 Daytime                577 commits         ██████████░░░░░░░░░░░░░░░   41.10 % 
-🌃 Evening                377 commits         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-🌙 Night                  311 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌞 Morning                139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+🌆 Daytime                582 commits         ██████████░░░░░░░░░░░░░░░   40.99 % 
+🌃 Evening                384 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌙 Night                  315 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   297 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Tuesday                  232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Wednesday                252 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Thursday                 137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Friday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Saturday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Sunday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Monday                   297 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Tuesday                  232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Wednesday                252 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Thursday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Friday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Saturday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Sunday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
 
 
@@ -197,7 +197,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:16:27 UTC
+ Last Updated on 08/10/2026 23:31:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
