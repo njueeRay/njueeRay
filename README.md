@@ -138,21 +138,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-🌆 Daytime                711 commits         ██████████░░░░░░░░░░░░░░░   41.27 % 
-🌃 Evening                470 commits         ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-🌙 Night                  369 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+🌞 Morning                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+🌆 Daytime                807 commits         ███████████░░░░░░░░░░░░░░   42.32 % 
+🌃 Evening                509 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌙 Night                  399 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Wednesday                331 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Friday                   218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Saturday                 145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Monday                   431 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Tuesday                  276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Wednesday                370 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Thursday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Friday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 ```
 
 
@@ -180,14 +180,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
+Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -197,7 +197,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:06:38 UTC
+ Last Updated on 26/10/2026 22:52:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
