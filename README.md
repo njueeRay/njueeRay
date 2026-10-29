@@ -125,34 +125,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 289.7 kB Used in GitHub's Storage 
+> 📦 290.1 kB Used in GitHub's Storage 
  > 
-> 🏆 316 Contributions in the Year 2026
+> 🏆 327 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-🌆 Daytime                833 commits         ███████████░░░░░░░░░░░░░░   42.46 % 
-🌃 Evening                530 commits         ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-🌙 Night                  407 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌞 Morning                192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+🌆 Daytime                839 commits         ███████████░░░░░░░░░░░░░░   42.06 % 
+🌃 Evening                556 commits         ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+🌙 Night                  408 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Tuesday                  276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Thursday                 207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Friday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Saturday                 145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Monday                   431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Tuesday                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Wednesday                405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Friday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Saturday                 145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 
 
@@ -162,32 +162,58 @@ Sunday                   236 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 5 mins        █████████████████████░░░░   85.49 % 
+Dart                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+PowerShell               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             3 hrs 13 mins       ██████████████████████░░░   89.35 % 
+VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+smart-ring-mobile        1 hr 38 mins        ███████████░░░░░░░░░░░░░░   45.54 % 
+hi-yaka-firmware         1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+codex-doing              27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+smart-ring-firmware      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+ssh                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 36 mins (100.0%)
+
+✍️ 4,922 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 13,702,498 Input Tokens, 1,547,140 Output Tokens
+
+💵 $861.09 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 17 AI Prompts
+
+GPT                      4,565 lines         ███████████████████████░░   92.69 % 
+Codex-Vscode             360 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 252 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -197,7 +223,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:47:55 UTC
+ Last Updated on 29/10/2026 22:57:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
