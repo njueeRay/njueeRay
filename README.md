@@ -117,15 +117,15 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 290.1 kB Used in GitHub's Storage 
+> 📦 289.7 kB Used in GitHub's Storage 
  > 
 > 🏆 327 Contributions in the Year 2026
  > 
@@ -138,21 +138,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-🌆 Daytime                839 commits         ███████████░░░░░░░░░░░░░░   42.06 % 
-🌃 Evening                556 commits         ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-🌙 Night                  408 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌞 Morning                194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+🌆 Daytime                843 commits         ██████████░░░░░░░░░░░░░░░   42.00 % 
+🌃 Evening                558 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌙 Night                  412 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Tuesday                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Wednesday                405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Friday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Monday                   431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Tuesday                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Friday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
 
 
@@ -162,47 +162,47 @@ Sunday                   236 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 5 mins        █████████████████████░░░░   85.49 % 
-Dart                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-PowerShell               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown                 3 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.18 % 
+Other                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+C                        57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Dart                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 13 mins       ██████████████████████░░░   89.35 % 
-VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Codex Vscode             7 hrs 45 mins       ████████████████████████░   95.59 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🐱‍💻 Projects: 
-smart-ring-mobile        1 hr 38 mins        ███████████░░░░░░░░░░░░░░   45.54 % 
-hi-yaka-firmware         1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-codex-doing              27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-smart-ring-firmware      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-ssh                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+smart-ring-firmware      3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
+smart-ring-mobile        2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
+hi-yaka-firmware         1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+codex-doing              49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+ssh                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 36 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 6 mins (100.0%)
 
-✍️ 4,922 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,399 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,702,498 Input Tokens, 1,547,140 Output Tokens
+🔤 15,849,178 Input Tokens, 1,805,781 Output Tokens
 
-💵 $861.09 Estimated AI Cost This Week
+💵 $922.69 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 17 AI Prompts
+🧠 9 AI Sessions, 25 AI Prompts
 
-GPT                      4,565 lines         ███████████████████████░░   92.69 % 
-Codex-Vscode             360 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+GPT                      7,658 lines         ████████████████████████░   96.56 % 
+Codex-Vscode             273 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 252 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 196 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -223,7 +223,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:57:05 UTC
+ Last Updated on 30/10/2026 22:36:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
