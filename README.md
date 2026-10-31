@@ -117,9 +117,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -138,21 +138,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-🌆 Daytime                843 commits         ██████████░░░░░░░░░░░░░░░   42.00 % 
-🌃 Evening                558 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌙 Night                  412 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+🌞 Morning                194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌆 Daytime                843 commits         ██████████░░░░░░░░░░░░░░░   41.98 % 
+🌃 Evening                558 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌙 Night                  413 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Monday                   431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
 Tuesday                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Wednesday                405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Thursday                 240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 Friday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 ```
 
 
@@ -223,7 +223,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/njueeRay/njueeRay/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:36:35 UTC
+ Last Updated on 31/10/2026 21:49:28 UTC
 <!--END_SECTION:waka-->
 
 <!-- Fallback: 如数据为空，请确认已在 WakaTime → Settings 中开启 "Share coding activity publicly" -->
